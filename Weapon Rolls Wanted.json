@@ -1,0 +1,28 @@
+{
+    "description": "Weapon Rolls that I need",
+    "name": "Weapon Rolls Wanted",
+    "data": [
+        {
+            "description": "AR with Subsistence and Demolitionist",
+            "hash": 640114618,
+            "name": "AR Subsistence Demo",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
+    ]
+}
